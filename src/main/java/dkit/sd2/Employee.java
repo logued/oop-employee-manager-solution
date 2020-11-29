@@ -59,7 +59,6 @@ public class Employee
 
     public double getSalary()
     {
-
         return  this.rate * this.hours;
     }
 
